@@ -2,7 +2,7 @@
 - 👀 I’m interested in art, design, UX, front-end.
 - 🌱 I’m currently learning JS, PHP, Angular, Symfony...
 - 💞️ I’m looking to collaborate on any creative project!
-- 📫 How to reach me ...
+- 📫 How to reach me :mag_right: find me on Linkedin.
 
 <!---
 anna-majka/anna-majka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
