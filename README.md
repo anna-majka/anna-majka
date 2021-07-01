@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anna-majka
-- 👀 I’m interested in art, design, UX, front-end.
+- 👋 Hi, I’m Anna
+- 👀 I’m interested in art, design, UI/UX, front-end.
 - 🌱 I’m currently learning JS, PHP, Angular, Symfony...:nerd_face:
 - 💞️ I’m looking to collaborate on any creative project!
 - 📫 How to reach me :mag_right: find me on Linkedin.
